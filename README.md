@@ -26,7 +26,6 @@ i wanted to use AI for Art and Entertainment.
 
 Here’s a glimpse of the results from the trained model:
 
-![Result Image](results/Results1.png)
 ![Result Image](results/Results2.png)
 ![Result Image](results/Results3.png)
 ![Result Image](results/Results4.png)
